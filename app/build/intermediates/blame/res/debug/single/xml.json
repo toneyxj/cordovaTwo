@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\cordovaWorkspace\\hello\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\camera_provider_paths.xml",
+        "source": "D:\\cordovaWorkspace\\hello\\platforms\\android\\app\\src\\main\\res\\xml\\camera_provider_paths.xml"
+    },
+    {
+        "merged": "D:\\cordovaWorkspace\\hello\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "D:\\cordovaWorkspace\\hello\\platforms\\android\\app\\src\\main\\res\\xml\\config.xml"
+    }
+]
